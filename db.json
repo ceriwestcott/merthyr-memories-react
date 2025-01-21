@@ -1,0 +1,9 @@
+{
+  "locations": [
+    { "id": 1, "name": "Gurnos" },
+    { "id": 2, "name": "Twynyrodyn" },
+    { "id": 3, "name": "Dowlais" },
+    { "id": 4, "name": "Penydarren" },
+    { "id": 5, "name": "Troedyrhiw" }
+  ]
+}
