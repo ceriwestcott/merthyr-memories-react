@@ -1,9 +1,233 @@
 {
   "locations": [
+    {
+      "id": 1,
+      "name": "Gurnos",
+      "image": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomastownPark_TheKennethJGunterCollection_small.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Twynyrodyn",
+      "image": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/MerthyrTydfil_Thomastown_RecreationGround.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dowlais",
+      "image": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomastownBowlsPresentation_1964-1_small.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Penydarren",
+      "image": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomastownBowlsClub_GlamorganCountyBowlsChampionship_E.Hogan,W.Rogers,TomJones,W.J.WilliamsHooverGreensKeep_JohnWilliams_small.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Troedyrhiw",
+      "image": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomasTownPark_MerthyrTydfil_small.jpg"
+    }
+  ],
+  "areas": [
     { "id": 1, "name": "Gurnos" },
     { "id": 2, "name": "Twynyrodyn" },
     { "id": 3, "name": "Dowlais" },
     { "id": 4, "name": "Penydarren" },
     { "id": 5, "name": "Troedyrhiw" }
+  ],
+  "area": {
+    "Gurnos": {
+      "id": 1,
+      "name": "Gurnos",
+      "area_id": 1,
+      "location_id": 1,
+      "date": "2025-01-01",
+      "streetName": "Gurnos Road",
+      "people": ["John Doe", "Jane Doe", "John Smith", "Jane Smith"]
+    }
+  },
+  "featured-images": [
+    {
+      "id": 9,
+      "width": 500,
+      "height": 288,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomastownPark_TheKennethJGunterCollection_small.jpg",
+      "title": "Thomastown Park - Kenneth J. Gunter Collection",
+      "location": "Gurnos"
+    },
+    {
+      "id": 10,
+      "width": 2745,
+      "height": 1678,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/MerthyrTydfil_Thomastown_RecreationGround.jpg",
+      "title": "Merthyr Tydfil - Thomastown Recreation Ground"
+    },
+    {
+      "id": 12,
+      "width": 500,
+      "height": 366,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomastownBowlsPresentation_1964-1_small.jpg",
+      "title": "Thomastown Bowls Presentation - 1964"
+    },
+    {
+      "id": 13,
+      "width": 500,
+      "height": 402,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomastownBowlsClub_GlamorganCountyBowlsChampionship_E.Hogan,W.Rogers,TomJones,W.J.WilliamsHooverGreensKeep_JohnWilliams_small.jpg",
+      "title": "Thomastown Bowls Club - Glamorgan County Championship"
+    },
+    {
+      "id": 15,
+      "width": 500,
+      "height": 331,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/ThomasTownPark_MerthyrTydfil_small.jpg",
+      "title": "Thomas Town Park - Merthyr Tydfil"
+    },
+    {
+      "id": 8,
+      "width": 500,
+      "height": 331,
+      "src": "http://www.alangeorge.co.uk/Images_A-C/BehindAeronTerrace,Twynyrodyn.backfill_nearcompletion.TakenbyTomDoyle_1975_AndrewOwen_small.png",
+      "title": "Behind Aeron Terrace, Twynyrodyn - 1975"
+    },
+    {
+      "id": 9,
+      "width": 500,
+      "height": 317,
+      "src": "http://www.alangeorge.co.uk/Images_A-C/BehindAeronTerrace,Twynyrodyn.backfill_nearcompletion.TakenbyTomDoyle_1975_AndrewOwen_2_AndrewOwen_small.png",
+      "title": "Behind Aeron Terrace, Twynyrodyn (View 2) - 1975"
+    },
+    {
+      "id": 14,
+      "width": 500,
+      "height": 298,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/TwynyrodynSocialClub_1950s_ArthurWilliams_small.jpg",
+      "title": "Twynyrodyn Social Club - 1950s"
+    },
+    {
+      "id": 15,
+      "width": 500,
+      "height": 379,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn_LutherStreetInvestiture_StreetParty1969_AnnLinforth_small.jpg",
+      "title": "Twynyrodyn - Luther Street Investiture Street Party, 1969"
+    },
+    {
+      "id": 16,
+      "width": 374,
+      "height": 280,
+      "src": "http://www.alangeorge.co.uk/Images/Twynyrodyn,Marystreet_InvestitureStreetparty_1969_img114_AnnetteJones_small.jpg",
+      "title": "Twynyrodyn - Mary Street Investiture Street Party, 1969"
+    },
+    {
+      "id": 17,
+      "width": 375,
+      "height": 281,
+      "src": "http://www.alangeorge.co.uk/Images/Twynyrodyn,Marystreet_InvestitureStreetparty_1969_img115_AnnetteJones_small.jpg",
+      "title": "Twynyrodyn - Mary Street Investiture Street Party, 1969 (View 2)"
+    },
+    {
+      "id": 18,
+      "width": 500,
+      "height": 273,
+      "src": "http://www.alangeorge.co.uk/Images_I-M/LowerTwynyrodynMexicanos_PenuelChapel_BerylDavies_small.jpg",
+      "title": "Lower Twynyrodyn - Mexicano's Penuel Chapel by Beryl Davies"
+    },
+    {
+      "id": 19,
+      "width": 500,
+      "height": 286,
+      "src": "http://www.alangeorge.co.uk/Images_I-M/LowerTwynyrodynMexicanos2_BerylDavies_small.jpg",
+      "title": "Lower Twynyrodyn - Mexicano's 2 by Beryl Davies"
+    },
+    {
+      "id": 23,
+      "width": 500,
+      "height": 357,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn_WhiteHorseInn_small.jpg",
+      "title": "Twynyrodyn - White Horse Inn"
+    },
+    {
+      "id": 24,
+      "width": 500,
+      "height": 380,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn,Windsorterrace_Snow_1982_DSC00294_GlynBowen_small.jpg",
+      "title": "Twynyrodyn - Windsor Terrace Snow, 1982"
+    },
+    {
+      "id": 25,
+      "width": 1109,
+      "height": 741,
+      "src": "http://www.alangeorge.co.uk/Images_U-Z/Williams_St_Queens_Silver_Jubilee.jpg",
+      "title": "Williams Street - Queen's Silver Jubilee"
+    },
+    {
+      "id": 26,
+      "width": 500,
+      "height": 382,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn,WilliamsStreet_Snow1982_DSC00293_GlynBowen_small.jpg",
+      "title": "Twynyrodyn - Williams Street Snow, 1982"
+    },
+    {
+      "id": 27,
+      "width": 500,
+      "height": 382,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn,WilliamsStreet_Snow_1982_DSC00289_GlynBowen_small.jpg",
+      "title": "Twynyrodyn - Williams Street Snow (View 2), 1982"
+    },
+    {
+      "id": 29,
+      "width": 500,
+      "height": 318,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn_Seion%20Chapel%20V-E%20Day%20Celeb_CliveThomas_small.jpg",
+      "title": "Twynyrodyn - Seion Chapel V-E Day Celebration by Clive Thomas"
+    },
+    {
+      "id": 30,
+      "width": 500,
+      "height": 295,
+      "src": "http://www.alangeorge.co.uk/Images_U-Z/ZionChapel_Interior_1988_small.jpg",
+      "title": "Zion Chapel - Interior, 1988"
+    },
+    {
+      "id": 32,
+      "width": 413,
+      "height": 280,
+      "src": "http://www.alangeorge.co.uk/Images_I-M/MaryStTwynVEDay_TheKennethJGunterCollection_small.jpg",
+      "title": "Mary Street, Twynyrodyn - V-E Day by Kenneth J. Gunter"
+    },
+    {
+      "id": 33,
+      "width": 500,
+      "height": 280,
+      "src": "http://www.alangeorge.co.uk/Images_I-M/MaryStreetVEDay1945_TheKennethJGunterCollection_small.jpg",
+      "title": "Mary Street - V-E Day 1945 by Kenneth J. Gunter"
+    },
+    {
+      "id": 34,
+      "width": 500,
+      "height": 290,
+      "src": "http://www.alangeorge.co.uk/e-comon/Images_Q-T/Twynyrodyn_MaryStreet-JazzBand-cropped_small.jpg",
+      "title": "Twynyrodyn - Mary Street Jazz Band"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "title": "The Story of Gurnos",
+      "content": "Lorum ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 2,
+      "title": "The Story of Twynyrodyn",
+      "content": "Lorum ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.     "
+    },
+    {
+      "id": 3,
+      "title": "The Story of Dowlais",
+      "content": "Lorum ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.     "
+    },
+    {
+      "id": 4,
+      "title": "The Story of Penydarren",
+      "content": "Lorum ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.     "
+    }
   ]
 }
